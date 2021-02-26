@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_1_5\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_1_5\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_1_5\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_1_5\DBConnection\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_1_5\DBConnection\DBConnection\obj\Debug\DBConnection.Form1.resources
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_1_5\DBConnection\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_1_5\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_1_5\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_1_5\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_1_5\DBConnection\DBConnection\obj\Debug\DBConnection.pdb

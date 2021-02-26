@@ -1,0 +1,5 @@
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_2_1\DBConnect\DBConnect\obj\Debug\DBConnect.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_2_1\DBConnect\DBConnect\obj\Debug\DBConnection.Form1.resources
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_2_1\DBConnect\DBConnect\obj\Debug\DBConnect.Properties.Resources.resources
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_2_1\DBConnect\DBConnect\obj\Debug\DBConnect.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_2_1\DBConnect\DBConnect\obj\Debug\DBConnect.csproj.CoreCompileInputs.cache
