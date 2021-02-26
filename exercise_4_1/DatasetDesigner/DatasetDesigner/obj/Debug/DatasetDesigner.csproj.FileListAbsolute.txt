@@ -1,0 +1,5 @@
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_4_1\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_4_1\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Form1.resources
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_4_1\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.Properties.Resources.resources
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_4_1\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\ITMO\ADO.NET\exercise_4_1\DatasetDesigner\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.CoreCompileInputs.cache
